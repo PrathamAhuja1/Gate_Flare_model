@@ -1,0 +1,7 @@
+path: C:\Users\prath\Downloads\Projects\AUV Project\Gate model\flare_dataset # Absolute path to dataset
+train: train/images
+val: val/images
+
+nc: 1
+names:
+  0: flare
